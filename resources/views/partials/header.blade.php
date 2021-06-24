@@ -17,9 +17,7 @@
             <a class="{{ (request()->is('contacts')) ? 'active' : '' }} nav-link"href="{{ route('contacts') }}">Contatti</a>
           </li>
         </ul>
-        <span class="navbar-text">
-          Navbar text with an inline element
-        </span>
+        <span class="navbar-text">&copy;</span>
       </div>
     </div>
   </nav>
