@@ -31,7 +31,7 @@
 
 
         <div>
-            <img class="rounded mx-auto d-block" src="{{ asset('img/bg.jpg') }}" alt="logo CaseBelle">
+            <img class="rounded mx-auto d-block mb-5" src="{{ asset('img/bg.jpg') }}" alt="logo CaseBelle">
         </div>
     </section>
 

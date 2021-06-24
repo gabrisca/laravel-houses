@@ -8,17 +8,17 @@
             <thead>
                 <tr>
                     <th scope="col">#</th>
-                    <th scope="col">First</th>
-                    <th scope="col">Last</th>
-                    <th scope="col">Handle</th>
-                    <th scope="col">#</th>
-                    <th scope="col">First</th>
-                    <th scope="col">Last</th>
-                    <th scope="col">Handle</th>
-                    <th scope="col">#</th>
-                    <th scope="col">First</th>
-                    <th scope="col">Last</th>
-                    <th scope="col">Handle</th>
+                    <th scope="col">codice</th>
+                    <th scope="col">indirizzo</th>
+                    <th scope="col">cap</th>
+                    <th scope="col">città</th>
+                    <th scope="col">stato</th>
+                    <th scope="col">metratura</th>
+                    <th scope="col">stanze</th>
+                    <th scope="col">tipologia</th>
+                    <th scope="col">box auto</th>
+                    <th scope="col">classe energetica</th>
+                    <th scope="col">prezzo</th>
                 </tr>
             </thead>
             <tbody>
