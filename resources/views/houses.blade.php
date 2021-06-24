@@ -47,9 +47,9 @@
                         <td>{{ $house['square_meters'] }}</td>
                         <td>{{ $house['rooms'] }}</td>
                         <td>{{ $house['type'] }}</td>
-                        <td>{{ $house['price'] }}</td>
                         <td>{{ $house['energy_rating'] }}</td>
                         <td>{{ $house['box'] }}</td>
+                        <td>{{ $house['price'] }}$</td>
                     </tr>
                 @endforeach
             </tbody>
