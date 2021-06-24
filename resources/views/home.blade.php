@@ -2,7 +2,7 @@
 
 @section('content')
 
-    <section class="container mt-5">
+    <section class="container mt-3">
         <h1>CaseBelle</h1>
 
         <h3>Today it's not an estate agent you need. It's a partner in property</h3>

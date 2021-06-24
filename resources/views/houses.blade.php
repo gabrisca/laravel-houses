@@ -2,7 +2,7 @@
 
 @section('content')
 
-    <section class="container mt-5">
+    <section class="container mt-3 mb-3">
         <h1>Houses</h1>
         <table class="table">
             <thead>
@@ -54,8 +54,10 @@
                 @endforeach
             </tbody>
         </table>
+        <section class="container mb-5">{{ $houses->links() }}
+
+        </section>
     </section>
 
-    <section class="container">{{ $houses->links() }}</section>
 
 @endsection
